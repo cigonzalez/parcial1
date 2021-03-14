@@ -1,0 +1,39 @@
+.navbar-brand {
+  font-family: "Satisfy", cursive;
+  font-size: 25px;
+}
+
+#img-header {
+  width: 100%;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+
+.card-footer {
+  background-color: white;
+  border: none;
+}
+
+.btn-primary {
+  background-color: bisque;
+  border-color: black;
+  color: black;
+}
+
+.btn-primary:hover {
+  background-color: bisque;
+  color: black;
+}
+
+.btn-danger {
+  border-color: #1bca9a;
+}
+
+footer, h2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
